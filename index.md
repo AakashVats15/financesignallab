@@ -27,7 +27,7 @@ Every post lives in the sidebar or navigation, and each one reflects my evolving
 
 ## Posts
 
-- [Hello World](2026/03/16/hello-world.html)
+- [How the Current Conflict in the Middle East Will Affect Helium Supply](2026/03/16/helium-contest.html)
 
 ---
 
