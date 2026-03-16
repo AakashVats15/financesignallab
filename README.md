@@ -40,7 +40,7 @@ Since the theme is intentionally minimal:
   `/YEAR/MONTH/DAY/post-title.html`
 
 Example:  
-`/2026/03/16/hello-world.html`
+`/2026/03/16/helium-contest.html`
 
 ---
 
