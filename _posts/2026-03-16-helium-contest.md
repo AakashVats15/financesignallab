@@ -69,7 +69,9 @@ As the conflict evolves, key indicators include:
 - Statements from major helium distributors  
 - Spot‑market price movements  
 
-Helium may not be a headline commodity, but it’s a quiet backbone of modern technology and geopolitical shocks can expose just how fragile that backbone is.
+## Closing Thoughts
+
+The helium market rarely sits at the center of geopolitical conversations, yet it becomes one of the first pressure points when global tensions rise. The current conflict in the Middle East highlights how interconnected and fragile critical material supply chains really are. Whether through production risks, shipping constraints, or broader uncertainty, even small disruptions can ripple into industries that depend on helium to keep modern technology running. As the situation evolves, companies, policymakers, and investors will be watching closely not because helium is a headline commodity, but because it quietly underpins some of the most important systems in the global economy.
 
 ## Sources
 
