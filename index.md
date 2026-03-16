@@ -25,4 +25,10 @@ Every post lives in the sidebar or navigation, and each one reflects my evolving
 
 ---
 
+## Posts
+
+- [Hello World](2026/03/16/hello-world.html)
+
+---
+
 More posts coming soon.
