@@ -30,12 +30,6 @@ Every post lives in the sidebar or navigation, and each one reflects my evolving
 - [How the Current Conflict in the Middle East Will Affect Helium Supply](2026/03/16/helium-contest.html)
 
 ---
-Here’s a clean, polished **Contact Me** section you can add directly to the bottom of your `index.md`.  
-It matches the tone of your homepage and keeps everything simple and readable.
-
-You can paste this **right above “More posts coming soon.”**
-
----
 
 ## Contact Me
 
