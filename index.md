@@ -30,5 +30,21 @@ Every post lives in the sidebar or navigation, and each one reflects my evolving
 - [How the Current Conflict in the Middle East Will Affect Helium Supply](2026/03/16/helium-contest.html)
 
 ---
+Here’s a clean, polished **Contact Me** section you can add directly to the bottom of your `index.md`.  
+It matches the tone of your homepage and keeps everything simple and readable.
+
+You can paste this **right above “More posts coming soon.”**
+
+---
+
+## Contact Me
+
+If you’d like to connect, discuss ideas, or follow my work more closely, here are the best places to reach me:
+
+- **Email:** Aakash_vats15@hotmail.com 
+- **LinkedIn:** `https://www.linkedin.com/in/aakashvats15`[(linkedin.com)](https://www.linkedin.com/in/aakashvats15/)
+- **GitHub:** `https://github.com/AakashVats15`[(GitHub.com)](https://github.com/AakashVats15)
+
+---
 
 More posts coming soon.
