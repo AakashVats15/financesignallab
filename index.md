@@ -1,4 +1,4 @@
-# Finance Signal Lab
+---
 
 Welcome to my corner of the internet, a sample space where I break down the noise of modern markets and turn it into something clearer, sharper, and more honest.  
 This blog is where I share my personal opinions on finance, the current macro environment, and the signals I see shaping markets today through the eyes of an engineer moving into Finance.
