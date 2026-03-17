@@ -38,10 +38,6 @@ If you’d like to connect, discuss ideas, or follow my work more closely, here 
 
 ---
 
-More posts coming soon.
-
----
-
-📝 
+## 📝  
 
 
