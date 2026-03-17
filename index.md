@@ -28,12 +28,6 @@ Every post reflects my ongoing exploration of markets, risk, and systematic thin
 
 ---
 
-## 📝 Latest Post
-
-- [How the Current Conflict in the Middle East Will Affect Helium Supply](2026/03/16/helium-contest.html)
-
----
-
 ## 📬 Contact Me
 
 If you’d like to connect, discuss ideas, or follow my work more closely, here are the best places to reach me:
@@ -45,3 +39,11 @@ If you’d like to connect, discuss ideas, or follow my work more closely, here 
 ---
 
 More posts coming soon.
+
+---
+
+## 📝 Latest Posts
+
+---
+
+
