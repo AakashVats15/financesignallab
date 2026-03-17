@@ -42,8 +42,6 @@ More posts coming soon.
 
 ---
 
-## 📝 Latest Posts
-
----
+📝 
 
 
