@@ -1,5 +1,9 @@
 title: "Finance Signal Lab"
 description: "My personal space for finance and quant insights."
-theme: jekyll-theme-midnight
 
-theme_mode: dark
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+
+minimal_mistakes_skin: "dark"
+
+plugins:
+  - jekyll-include-cache
