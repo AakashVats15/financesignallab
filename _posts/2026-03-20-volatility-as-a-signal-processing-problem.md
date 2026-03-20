@@ -91,7 +91,7 @@ Volatility also exhibits mean reversion, a property shared with many physical no
 
 Finally, volatility contains hidden structure that becomes visible only when analyzed through the right lens. Autocorrelation functions reveal persistence. Power spectral density reveals dominant frequencies. Wavelet decompositions reveal multi scale behavior. These tools, originally designed for signal analysis, provide insight into how volatility evolves, how shocks propagate, and how regimes shift.
 
-In short, volatility is not random chaos. It is a structured noise process shaped by memory, environment, and feedback — the same principles that govern complex RF systems.
+In short, volatility is not random chaos. It is a structured noise process shaped by memory, environment, and feedback  the same principles that govern complex RF systems.
 
 ---
 
@@ -287,7 +287,7 @@ Correlation matrices deform rapidly during stress:
   Σₜ ≠ Σₜ₋₁
 
 This is the financial equivalent of a channel whose multipath profile changes from moment to moment.  
-Models that rely on stable covariance — PCA, factor models, risk models, portfolio optimizers — become unreliable.
+Models that rely on stable covariance, PCA, factor models, risk models, portfolio optimizers, all become unreliable.
 
 Finally, ML models fail because volatility regimes introduce **nonlinear feedback loops**.  
 During stress:
@@ -307,9 +307,9 @@ but in stressed markets the true relationship becomes:
 
   yₜ = f(xₜ, yₜ₋₁, liquidityₜ, positioningₜ)
 
-This is a recursive, path dependent system — much closer to RF systems with nonlinear distortion, memory, and feedback. ML failure is not a bug. It is a predictable outcome of applying static models to dynamic systems.
+This is a recursive, path dependent system much closer to RF systems with nonlinear distortion, memory, and feedback. ML failure is not a bug. It is a predictable outcome of applying static models to dynamic systems.
 
-The RF engineer’s instinct is to test across environments, validate under stress, and understand failure modes — becomes a decisive advantage in building robust financial ML pipelines.
+The RF engineer’s instinct is to test across environments, validate under stress, and understand failure modes becomes a decisive advantage in building robust financial ML pipelines.
 
 ---
 
