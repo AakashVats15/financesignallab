@@ -5,21 +5,24 @@ date: 2026-03-23
 ---
 
 <style>
+/* Full page dark theme */
 body, html {
-  background color: #0d0d0d !important;
+  background-color: #0d0d0d !important;
   color: #e6e6e6 !important;
-  font family: apple system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans serif;
-  line height: 1.7;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.7;
   padding: 20px;
 }
 
+/* Headings */
 h1, h2, h3, h4 {
   color: #ffffff !important;
-  margin top: 40px;
-  margin bottom: 15px;
-  font weight: 600;
+  margin-top: 40px;
+  margin-bottom: 15px;
+  font-weight: 600;
 }
 
+/* Horizontal rules */
 hr {
   border: 0;
   height: 1px;
@@ -27,37 +30,42 @@ hr {
   margin: 40px 0;
 }
 
+/* Blockquotes */
 blockquote {
-  border left: 4px solid #4da6ff;
-  padding left: 15px;
+  border-left: 4px solid #4da6ff;
+  padding-left: 15px;
   color: #cce6ff;
   margin: 20px 0;
-  font style: italic;
+  font-style: italic;
 }
 
+/* Lists */
 ul {
-  margin left: 20px;
+  margin-left: 20px;
 }
 
 ul li {
-  margin bottom: 8px;
+  margin-bottom: 8px;
 }
 
+/* Highlighted text */
 strong {
   color: #ffdd99;
 }
 
+/* Section icons */
 h2::before {
-  margin right: 8px;
+  margin-right: 8px;
 }
 
+/* Links */
 a {
   color: #66b3ff;
-  text decoration: none;
+  text-decoration: none;
 }
 
 a:hover {
-  text decoration: underline;
+  text-decoration: underline;
 }
 </style>
 
