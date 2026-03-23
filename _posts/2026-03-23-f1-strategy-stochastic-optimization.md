@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Race Strategy As Real Time Stochastic Optimisation"
-date: 2026 03 23
+date: 2026-03-23
 ---
 
 <style>
