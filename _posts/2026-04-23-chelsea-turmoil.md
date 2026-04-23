@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Managerial Volatility Index: Why Chelsea’s Coaching Turnover Is a Quant Problem"
+title: "Chelsea Managerial Volatility Index: Posing Chelsea’s Coaching Turnover as a Quant Problem"
 date: 2026-03-24
 ---
 <style>
